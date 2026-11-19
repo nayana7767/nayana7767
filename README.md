@@ -51,6 +51,11 @@ Currently exploring Machine Learning, understanding algorithms, experimenting wi
 🔹 [Supervised ML Practice](https://github.com/nayana7767/Supervised-ML-Practice)
 
 A collection of my Machine Learning practice notebooks, experiments and implementations covering supervised learning algorithms.
+A collection of my Machine Learning practice notebooks, experiments and implementations covering supervised learning algorithms.
+
+🔹 **[CreditWise – Loan Approval Prediction System](https://github.com/nayana7767/CreditWise-Loan-System-ML-Project)**
+
+A Machine Learning project that predicts loan approval using applicant data. Implements data preprocessing, exploratory data analysis, feature engineering, and classification algorithms such as Logistic Regression, KNN, and Naive Bayes.
 
 ### 🌐 Connect With Me
 
